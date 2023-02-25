@@ -162,7 +162,7 @@ article{
   width: 35%;
   margin: auto;
   height: 180px;
-  border:1px solid red;
+/*   border:1px solid red; */
   position: relative;
   bottom:-100px;
   background-color: white;
